@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ed83isme@gmail.com
+	name = eduardo pimenta
